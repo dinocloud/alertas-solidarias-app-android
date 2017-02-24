@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">AlertasSolidarias</string>
+    <string name="login">"Iniciar sesión"</string>
+  <string name="username">"Usuario</string>
+  <string name="password">"Contraseña"</string>
+  <string name="forgotPassword">"¿Olvidaste tu contraseña?"</string>
+</resources>
