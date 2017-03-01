@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertasSolidarias", "AlertasSolidarias\AlertasSolidarias.csproj", "{F2A30B8E-C67A-4F33-B635-A085BC7D2F78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPLibrary", "HTTPLibrary\HTTPLibrary.csproj", "{EC645CBF-30FD-40F8-BD8F-CF7E88C3918A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{3E276786-CB89-4AC4-81C7-4CCEBF5DD5C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,14 @@ Global
 		{F2A30B8E-C67A-4F33-B635-A085BC7D2F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A30B8E-C67A-4F33-B635-A085BC7D2F78}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F2A30B8E-C67A-4F33-B635-A085BC7D2F78}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EC645CBF-30FD-40F8-BD8F-CF7E88C3918A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC645CBF-30FD-40F8-BD8F-CF7E88C3918A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC645CBF-30FD-40F8-BD8F-CF7E88C3918A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC645CBF-30FD-40F8-BD8F-CF7E88C3918A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E276786-CB89-4AC4-81C7-4CCEBF5DD5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E276786-CB89-4AC4-81C7-4CCEBF5DD5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E276786-CB89-4AC4-81C7-4CCEBF5DD5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E276786-CB89-4AC4-81C7-4CCEBF5DD5C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
