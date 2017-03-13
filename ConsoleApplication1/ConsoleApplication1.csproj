@@ -57,6 +57,10 @@
       <Project>{ec645cbf-30fd-40f8-bd8f-cf7e88c3918a}</Project>
       <Name>HTTPLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{bb5cab84-5a43-4668-b16e-91a40b566b3e}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

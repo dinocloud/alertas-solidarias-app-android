@@ -67,7 +67,7 @@ namespace AlertasSolidarias
 		{
 			
 			// aapt resource value: 0x7f050002
-			public const int button1 = 2131034114;
+			public const int btnLogin = 2131034114;
 			
 			// aapt resource value: 0x7f050001
 			public const int etPassword = 2131034113;
